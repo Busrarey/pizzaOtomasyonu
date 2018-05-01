@@ -1,0 +1,9 @@
+c:\users\v\documents\visual studio 2015\Projects\Pizzacı\Pizzacı\bin\Debug\Pizzacı.exe.config
+c:\users\v\documents\visual studio 2015\Projects\Pizzacı\Pizzacı\bin\Debug\Pizzacı.exe
+c:\users\v\documents\visual studio 2015\Projects\Pizzacı\Pizzacı\bin\Debug\Pizzacı.pdb
+c:\users\v\documents\visual studio 2015\Projects\Pizzacı\Pizzacı\obj\Debug\Pizzacı.csprojResolveAssemblyReference.cache
+c:\users\v\documents\visual studio 2015\Projects\Pizzacı\Pizzacı\obj\Debug\Pizzacı.Form1.resources
+c:\users\v\documents\visual studio 2015\Projects\Pizzacı\Pizzacı\obj\Debug\Pizzacı.Properties.Resources.resources
+c:\users\v\documents\visual studio 2015\Projects\Pizzacı\Pizzacı\obj\Debug\Pizzacı.csproj.GenerateResource.Cache
+c:\users\v\documents\visual studio 2015\Projects\Pizzacı\Pizzacı\obj\Debug\Pizzacı.exe
+c:\users\v\documents\visual studio 2015\Projects\Pizzacı\Pizzacı\obj\Debug\Pizzacı.pdb
